@@ -16,12 +16,12 @@ h1 {
 }
 
 h2 {
-    margin-bottom: 30px;
+    max-width: 520px;
+    margin: 0 auto 30px auto;
     font-weight: 700;
     font-size: 36px;
     line-height: 44px;
     text-align: center;
-    color: #2F281E;
 }
 
 h5 {
